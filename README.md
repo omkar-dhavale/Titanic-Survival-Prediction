@@ -6,13 +6,13 @@ Demonstrate a complete data science workflow: data cleaning, feature engineering
 
 2)Steps to Run the Project
 
-1.Clone the repository.
+-Clone the repository.
 
-2.Install dependencies with pip install -r requirements.txt.
+-Install dependencies with pip install -r requirements.txt.
 
-3.Open and run the Jupyter Notebook.
+-Open and run the Notebook.
 
-4.Review the model's performance metrics.
+-Review the model's performance metrics.
 
 
 3)Code Organization
